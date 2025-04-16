@@ -32,4 +32,9 @@ public:
     void MC2() {
         cout << "Método MC2" << endl;
     }
+
+    // Novo método MC3
+    void MC3() {
+        cout << "Método MC3" << endl;
+    }
 };
