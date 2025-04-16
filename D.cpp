@@ -32,4 +32,9 @@ public:
     void MD2() {
         cout << "Método MD2" << endl;
     }
+
+    // Novo método MD3
+    void MD3() {
+        std::cout << "Método MD3" << std::endl;
+    }
 };
