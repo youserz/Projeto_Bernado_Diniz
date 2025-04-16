@@ -37,4 +37,7 @@ public:
     void MD3() {
         std::cout << "Método MD3" << std::endl;
     }
+    void MD4() {
+        std::cout << "Método MD4" << std::endl;
+    }
 };
