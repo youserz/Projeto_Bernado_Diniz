@@ -24,12 +24,16 @@ public:
         this->A2 = A2;
     }
 
-    // Métodos MA1 e MA2
+    // Métodos MA1, MA2 e MA3
     void MA1() {
         cout << "Método MA1" << endl;
     }
 
     void MA2() {
         cout << "Método MA2" << endl;
+    }
+
+    void MA3() {
+        cout << "Alteração a classe A partir do clone" << endl;
     }
 };
